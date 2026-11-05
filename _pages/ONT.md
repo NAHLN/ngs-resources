@@ -49,7 +49,7 @@ ONT can produce extremely long reads with the capacity to sequence an entire gen
 * **Direct sequencing of methylated areas**
     <div style="width: 560px; height: 315px; margin: 0 auto; overflow: hidden;">
       <iframe 
-        src="https://www.youtube.com/embed/7PraIiiN_Gc?si=dKBzXDJz5rzgvaMr"
+        src="https://youtu.be/VxGliKyYuFQ?si=XVJs-GYy-BxuIDNt"
         width="560"
         height="315"
         style="border: none; display: block;">
@@ -175,7 +175,7 @@ Click on the image to see a video demonstration of library preparation using the
 ### Flow cell loading
 <div style="width: 560px; height: 315px; margin: 0 auto; overflow: hidden;">
   <iframe 
-    src="https://www.youtube.com/embed/Pt-iaemrM88?si=TOKWnZjGIHXiXINX"
+    src="https://youtu.be/CBLr528FJ3A?si=Eo_ne4H95-UjWyAp"
     width="560"
     height="315"
     style="border: none; display: block;">
