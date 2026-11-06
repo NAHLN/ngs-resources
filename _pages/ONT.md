@@ -18,7 +18,7 @@ An introduction to ONT sequencing including applications, sample workflows, educ
 
 Oxford Nanopore Technology (ONT) is a sequencing platform which generates longer reads of genetic material compared to short read technologies such as Illumina. Genetic material is passed through nanopores embedded in a charged membrane with hundreds of pores. As genetic material passes through the pores one base pair at a time, the electric field is disrupted, and this disruption is translated to a base call.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RcP85JHLmnI?si=hRO8Fb1LcmPriBa8&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxGliKyYuFQ?si=Dvk3j2VbzR540f-h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### How does ONT differ from other sequencing platforms?
 
@@ -49,7 +49,7 @@ ONT can produce extremely long reads with the capacity to sequence an entire gen
 * **Direct sequencing of methylated areas**
     <div style="width: 560px; height: 315px; margin: 0 auto; overflow: hidden;">
       <iframe 
-        src="https://www.youtube.com/embed/7PraIiiN_Gc?si=dKBzXDJz5rzgvaMr"
+        src="https://youtu.be/VxGliKyYuFQ?si=XVJs-GYy-BxuIDNt"
         width="560"
         height="315"
         style="border: none; display: block;">
@@ -174,12 +174,7 @@ Click on the image to see a video demonstration of library preparation using the
 
 ### Flow cell loading
 <div style="width: 560px; height: 315px; margin: 0 auto; overflow: hidden;">
-  <iframe 
-    src="https://www.youtube.com/embed/Pt-iaemrM88?si=TOKWnZjGIHXiXINX"
-    width="560"
-    height="315"
-    style="border: none; display: block;">
-  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CBLr528FJ3A?si=TM_USrddND0Omnzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 This is a video demonstration of flow cell priming and loading which are done immediately prior to loading a prepared library onto the sequencer.
